@@ -1,1 +1,1 @@
-{"cod":"404","message":"city not found"}
+{"coord":{"lon":-74.006,"lat":40.7143},"weather":[{"id":803,"main":"Clouds","description":"broken clouds","icon":"04n"}],"base":"stations","main":{"temp":277.12,"feels_like":272.46,"temp_min":276.12,"temp_max":278.24,"pressure":1006,"humidity":51},"visibility":10000,"wind":{"speed":6.69,"deg":290,"gust":10.8},"clouds":{"all":75},"dt":1637973257,"sys":{"type":1,"id":5141,"country":"US","sunrise":1637927753,"sunset":1637962282},"timezone":-18000,"id":5128581,"name":"New York","cod":200}
